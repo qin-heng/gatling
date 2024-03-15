@@ -1,0 +1,544 @@
+RUN	transactions.MarketplaceFeesGetSimulation	marketplacefeesgetsimulation	1710448263840	 	3.10.4
+USER	Login	START	1710448264534
+REQUEST		Login	1710448264532	1710448267020	OK	 
+USER	Login	END	1710448272095
+USER	Get Marketplace Fees	START	1710448272526
+USER	Get Marketplace Fees	START	1710448272573
+USER	Get Marketplace Fees	START	1710448272604
+USER	Get Marketplace Fees	START	1710448272627
+USER	Get Marketplace Fees	START	1710448272646
+USER	Get Marketplace Fees	START	1710448272662
+USER	Get Marketplace Fees	START	1710448272677
+USER	Get Marketplace Fees	START	1710448272688
+USER	Get Marketplace Fees	START	1710448272700
+USER	Get Marketplace Fees	START	1710448272709
+USER	Get Marketplace Fees	START	1710448272719
+USER	Get Marketplace Fees	START	1710448272726
+USER	Get Marketplace Fees	START	1710448272735
+USER	Get Marketplace Fees	START	1710448272743
+USER	Get Marketplace Fees	START	1710448272750
+USER	Get Marketplace Fees	START	1710448272757
+USER	Get Marketplace Fees	START	1710448272765
+USER	Get Marketplace Fees	START	1710448272771
+USER	Get Marketplace Fees	START	1710448272777
+USER	Get Marketplace Fees	START	1710448272783
+USER	Get Marketplace Fees	START	1710448272789
+USER	Get Marketplace Fees	START	1710448272795
+USER	Get Marketplace Fees	START	1710448272800
+USER	Get Marketplace Fees	START	1710448272805
+USER	Get Marketplace Fees	START	1710448272810
+USER	Get Marketplace Fees	START	1710448272815
+USER	Get Marketplace Fees	START	1710448272820
+USER	Get Marketplace Fees	START	1710448272824
+USER	Get Marketplace Fees	START	1710448272829
+USER	Get Marketplace Fees	START	1710448272834
+USER	Get Marketplace Fees	START	1710448272838
+USER	Get Marketplace Fees	START	1710448272844
+USER	Get Marketplace Fees	START	1710448272848
+USER	Get Marketplace Fees	START	1710448272851
+USER	Get Marketplace Fees	START	1710448272855
+USER	Get Marketplace Fees	START	1710448272858
+USER	Get Marketplace Fees	START	1710448272862
+USER	Get Marketplace Fees	START	1710448272866
+USER	Get Marketplace Fees	START	1710448272870
+USER	Get Marketplace Fees	START	1710448272874
+USER	Get Marketplace Fees	START	1710448272901
+USER	Get Marketplace Fees	START	1710448272901
+USER	Get Marketplace Fees	START	1710448272901
+USER	Get Marketplace Fees	START	1710448272901
+USER	Get Marketplace Fees	START	1710448272901
+USER	Get Marketplace Fees	START	1710448272901
+USER	Get Marketplace Fees	START	1710448272902
+USER	Get Marketplace Fees	START	1710448272902
+USER	Get Marketplace Fees	START	1710448272906
+USER	Get Marketplace Fees	START	1710448272908
+USER	Get Marketplace Fees	START	1710448272912
+USER	Get Marketplace Fees	START	1710448272914
+USER	Get Marketplace Fees	START	1710448272917
+USER	Get Marketplace Fees	START	1710448272921
+USER	Get Marketplace Fees	START	1710448272924
+USER	Get Marketplace Fees	START	1710448272927
+USER	Get Marketplace Fees	START	1710448272931
+USER	Get Marketplace Fees	START	1710448272934
+USER	Get Marketplace Fees	START	1710448272937
+USER	Get Marketplace Fees	START	1710448272940
+USER	Get Marketplace Fees	START	1710448272943
+USER	Get Marketplace Fees	START	1710448272946
+USER	Get Marketplace Fees	START	1710448272949
+USER	Get Marketplace Fees	START	1710448272952
+USER	Get Marketplace Fees	START	1710448272955
+USER	Get Marketplace Fees	START	1710448272957
+USER	Get Marketplace Fees	START	1710448272960
+USER	Get Marketplace Fees	START	1710448272963
+USER	Get Marketplace Fees	START	1710448272966
+USER	Get Marketplace Fees	START	1710448272969
+USER	Get Marketplace Fees	START	1710448272972
+USER	Get Marketplace Fees	START	1710448272974
+USER	Get Marketplace Fees	START	1710448272977
+USER	Get Marketplace Fees	START	1710448272980
+USER	Get Marketplace Fees	START	1710448272983
+USER	Get Marketplace Fees	START	1710448272986
+USER	Get Marketplace Fees	START	1710448272988
+USER	Get Marketplace Fees	START	1710448272992
+USER	Get Marketplace Fees	START	1710448272994
+USER	Get Marketplace Fees	START	1710448272997
+USER	Get Marketplace Fees	START	1710448272999
+USER	Get Marketplace Fees	START	1710448273003
+USER	Get Marketplace Fees	START	1710448273005
+USER	Get Marketplace Fees	START	1710448273008
+USER	Get Marketplace Fees	START	1710448273010
+USER	Get Marketplace Fees	START	1710448273014
+USER	Get Marketplace Fees	START	1710448273017
+USER	Get Marketplace Fees	START	1710448273019
+USER	Get Marketplace Fees	START	1710448273022
+USER	Get Marketplace Fees	START	1710448273025
+USER	Get Marketplace Fees	START	1710448273028
+USER	Get Marketplace Fees	START	1710448273030
+USER	Get Marketplace Fees	START	1710448273033
+USER	Get Marketplace Fees	START	1710448273036
+USER	Get Marketplace Fees	START	1710448273038
+USER	Get Marketplace Fees	START	1710448273041
+USER	Get Marketplace Fees	START	1710448273044
+USER	Get Marketplace Fees	START	1710448273046
+USER	Get Marketplace Fees	START	1710448273049
+USER	Get Marketplace Fees	START	1710448273052
+USER	Get Marketplace Fees	START	1710448273055
+USER	Get Marketplace Fees	START	1710448273057
+USER	Get Marketplace Fees	START	1710448273060
+USER	Get Marketplace Fees	START	1710448273063
+USER	Get Marketplace Fees	START	1710448273066
+USER	Get Marketplace Fees	START	1710448273068
+USER	Get Marketplace Fees	START	1710448273071
+USER	Get Marketplace Fees	START	1710448273074
+USER	Get Marketplace Fees	START	1710448273077
+USER	Get Marketplace Fees	START	1710448273080
+USER	Get Marketplace Fees	START	1710448273083
+USER	Get Marketplace Fees	START	1710448273086
+USER	Get Marketplace Fees	START	1710448273089
+USER	Get Marketplace Fees	START	1710448273091
+USER	Get Marketplace Fees	START	1710448273094
+USER	Get Marketplace Fees	START	1710448273097
+USER	Get Marketplace Fees	START	1710448273099
+USER	Get Marketplace Fees	START	1710448273103
+USER	Get Marketplace Fees	START	1710448273105
+USER	Get Marketplace Fees	START	1710448273109
+USER	Get Marketplace Fees	START	1710448273112
+USER	Get Marketplace Fees	START	1710448273115
+USER	Get Marketplace Fees	START	1710448273118
+USER	Get Marketplace Fees	START	1710448273121
+USER	Get Marketplace Fees	START	1710448273124
+USER	Get Marketplace Fees	START	1710448273127
+USER	Get Marketplace Fees	START	1710448273130
+USER	Get Marketplace Fees	START	1710448273133
+USER	Get Marketplace Fees	START	1710448273137
+USER	Get Marketplace Fees	START	1710448273140
+USER	Get Marketplace Fees	START	1710448273143
+USER	Get Marketplace Fees	START	1710448273146
+USER	Get Marketplace Fees	START	1710448273149
+USER	Get Marketplace Fees	START	1710448273153
+USER	Get Marketplace Fees	START	1710448273156
+USER	Get Marketplace Fees	START	1710448273159
+USER	Get Marketplace Fees	START	1710448273164
+USER	Get Marketplace Fees	START	1710448273166
+USER	Get Marketplace Fees	START	1710448273170
+USER	Get Marketplace Fees	START	1710448273173
+USER	Get Marketplace Fees	START	1710448273177
+USER	Get Marketplace Fees	START	1710448273180
+USER	Get Marketplace Fees	START	1710448273184
+USER	Get Marketplace Fees	START	1710448273189
+USER	Get Marketplace Fees	START	1710448273192
+USER	Get Marketplace Fees	START	1710448273196
+USER	Get Marketplace Fees	START	1710448273200
+USER	Get Marketplace Fees	START	1710448273204
+USER	Get Marketplace Fees	START	1710448273208
+USER	Get Marketplace Fees	START	1710448273213
+USER	Get Marketplace Fees	START	1710448273216
+USER	Get Marketplace Fees	START	1710448273221
+USER	Get Marketplace Fees	START	1710448273225
+USER	Get Marketplace Fees	START	1710448273230
+USER	Get Marketplace Fees	START	1710448273235
+USER	Get Marketplace Fees	START	1710448273239
+USER	Get Marketplace Fees	START	1710448273244
+USER	Get Marketplace Fees	START	1710448273249
+USER	Get Marketplace Fees	START	1710448273254
+USER	Get Marketplace Fees	START	1710448273260
+USER	Get Marketplace Fees	START	1710448273265
+USER	Get Marketplace Fees	START	1710448273271
+USER	Get Marketplace Fees	START	1710448273277
+USER	Get Marketplace Fees	START	1710448273283
+USER	Get Marketplace Fees	START	1710448273289
+USER	Get Marketplace Fees	START	1710448273296
+USER	Get Marketplace Fees	START	1710448273303
+USER	Get Marketplace Fees	START	1710448273310
+USER	Get Marketplace Fees	START	1710448273318
+USER	Get Marketplace Fees	START	1710448273326
+USER	Get Marketplace Fees	START	1710448273334
+USER	Get Marketplace Fees	START	1710448273344
+USER	Get Marketplace Fees	START	1710448273354
+USER	Get Marketplace Fees	START	1710448273365
+USER	Get Marketplace Fees	START	1710448273377
+USER	Get Marketplace Fees	START	1710448273391
+USER	Get Marketplace Fees	START	1710448273407
+USER	Get Marketplace Fees	START	1710448273426
+USER	Get Marketplace Fees	START	1710448273450
+USER	Get Marketplace Fees	START	1710448273481
+REQUEST		Get all marketplace fees	1710448272625	1710448284339	OK	 
+USER	Get Marketplace Fees	END	1710448284339
+REQUEST		Get all marketplace fees	1710448272891	1710448285772	OK	 
+USER	Get Marketplace Fees	END	1710448285774
+REQUEST		Get all marketplace fees	1710448272660	1710448286573	OK	 
+USER	Get Marketplace Fees	END	1710448286573
+REQUEST		Get all marketplace fees	1710448272936	1710448287188	OK	 
+USER	Get Marketplace Fees	END	1710448287189
+REQUEST		Get all marketplace fees	1710448272911	1710448287308	OK	 
+USER	Get Marketplace Fees	END	1710448287309
+REQUEST		Get all marketplace fees	1710448272602	1710448288200	OK	 
+USER	Get Marketplace Fees	END	1710448288201
+REQUEST		Get all marketplace fees	1710448272931	1710448288387	OK	 
+USER	Get Marketplace Fees	END	1710448288388
+REQUEST		Get all marketplace fees	1710448272571	1710448288489	OK	 
+USER	Get Marketplace Fees	END	1710448288491
+REQUEST		Get all marketplace fees	1710448272789	1710448288552	OK	 
+USER	Get Marketplace Fees	END	1710448288553
+REQUEST		Get all marketplace fees	1710448272939	1710448288696	OK	 
+USER	Get Marketplace Fees	END	1710448288697
+REQUEST		Get all marketplace fees	1710448273326	1710448288985	OK	 
+USER	Get Marketplace Fees	END	1710448288985
+REQUEST		Get all marketplace fees	1710448272525	1710448289078	OK	 
+USER	Get Marketplace Fees	END	1710448289080
+REQUEST		Get all marketplace fees	1710448272718	1710448289361	OK	 
+USER	Get Marketplace Fees	END	1710448289361
+REQUEST		Get all marketplace fees	1710448273071	1710448289926	OK	 
+USER	Get Marketplace Fees	END	1710448289927
+REQUEST		Get all marketplace fees	1710448272905	1710448290155	OK	 
+USER	Get Marketplace Fees	END	1710448290155
+REQUEST		Get all marketplace fees	1710448272819	1710448290270	OK	 
+USER	Get Marketplace Fees	END	1710448290271
+REQUEST		Get all marketplace fees	1710448273046	1710448291014	OK	 
+USER	Get Marketplace Fees	END	1710448291015
+REQUEST		Get all marketplace fees	1710448273303	1710448291957	OK	 
+USER	Get Marketplace Fees	END	1710448291957
+REQUEST		Get all marketplace fees	1710448273283	1710448291989	OK	 
+USER	Get Marketplace Fees	END	1710448291990
+REQUEST		Get all marketplace fees	1710448273052	1710448292214	OK	 
+USER	Get Marketplace Fees	END	1710448292215
+REQUEST		Get all marketplace fees	1710448272999	1710448293107	OK	 
+USER	Get Marketplace Fees	END	1710448293108
+REQUEST		Get all marketplace fees	1710448272994	1710448293239	OK	 
+USER	Get Marketplace Fees	END	1710448293239
+REQUEST		Get all marketplace fees	1710448272895	1710448294144	OK	 
+REQUEST		Get all marketplace fees	1710448272901	1710448294145	OK	 
+USER	Get Marketplace Fees	END	1710448294145
+USER	Get Marketplace Fees	END	1710448294145
+REQUEST		Get all marketplace fees	1710448273133	1710448294959	OK	 
+USER	Get Marketplace Fees	END	1710448294960
+REQUEST		Get all marketplace fees	1710448273265	1710448294967	OK	 
+USER	Get Marketplace Fees	END	1710448294968
+REQUEST		Get all marketplace fees	1710448272837	1710448295279	OK	 
+REQUEST		Get all marketplace fees	1710448273074	1710448295280	OK	 
+USER	Get Marketplace Fees	END	1710448295280
+USER	Get Marketplace Fees	END	1710448295280
+REQUEST		Get all marketplace fees	1710448272756	1710448295588	OK	 
+USER	Get Marketplace Fees	END	1710448295588
+REQUEST		Get all marketplace fees	1710448272858	1710448295694	OK	 
+USER	Get Marketplace Fees	END	1710448295695
+REQUEST		Get all marketplace fees	1710448273318	1710448295757	OK	 
+USER	Get Marketplace Fees	END	1710448295757
+REQUEST		Get all marketplace fees	1710448273170	1710448295766	OK	 
+USER	Get Marketplace Fees	END	1710448295767
+REQUEST		Get all marketplace fees	1710448273277	1710448295847	OK	 
+USER	Get Marketplace Fees	END	1710448295847
+REQUEST		Get all marketplace fees	1710448272870	1710448296142	OK	 
+USER	Get Marketplace Fees	END	1710448296143
+REQUEST		Get all marketplace fees	1710448273021	1710448296191	OK	 
+USER	Get Marketplace Fees	END	1710448296192
+REQUEST		Get all marketplace fees	1710448272898	1710448296195	OK	 
+USER	Get Marketplace Fees	END	1710448296196
+REQUEST		Get all marketplace fees	1710448272881	1710448296312	OK	 
+USER	Get Marketplace Fees	END	1710448296313
+REQUEST		Get all marketplace fees	1710448272877	1710448296467	OK	 
+USER	Get Marketplace Fees	END	1710448296468
+REQUEST		Get all marketplace fees	1710448272770	1710448297289	OK	 
+USER	Get Marketplace Fees	END	1710448297290
+REQUEST		Get all marketplace fees	1710448272855	1710448297834	OK	 
+USER	Get Marketplace Fees	END	1710448297836
+REQUEST		Get all marketplace fees	1710448272843	1710448297899	OK	 
+USER	Get Marketplace Fees	END	1710448297900
+REQUEST		Get all marketplace fees	1710448272924	1710448297928	OK	 
+USER	Get Marketplace Fees	END	1710448297930
+REQUEST		Get all marketplace fees	1710448272726	1710448298850	OK	 
+USER	Get Marketplace Fees	END	1710448298851
+REQUEST		Get all marketplace fees	1710448272963	1710448298858	OK	 
+USER	Get Marketplace Fees	END	1710448298858
+REQUEST		Get all marketplace fees	1710448272969	1710448299567	OK	 
+USER	Get Marketplace Fees	END	1710448299569
+REQUEST		Get all marketplace fees	1710448273105	1710448299694	OK	 
+USER	Get Marketplace Fees	END	1710448299694
+REQUEST		Get all marketplace fees	1710448272914	1710448300184	OK	 
+USER	Get Marketplace Fees	END	1710448300185
+REQUEST		Get all marketplace fees	1710448272708	1710448300494	OK	 
+USER	Get Marketplace Fees	END	1710448300495
+REQUEST		Get all marketplace fees	1710448273094	1710448301089	OK	 
+USER	Get Marketplace Fees	END	1710448301089
+REQUEST		Get all marketplace fees	1710448273027	1710448301090	OK	 
+USER	Get Marketplace Fees	END	1710448301091
+REQUEST		Get all marketplace fees	1710448273114	1710448301311	OK	 
+USER	Get Marketplace Fees	END	1710448301312
+REQUEST		Get all marketplace fees	1710448272675	1710448302884	OK	 
+USER	Get Marketplace Fees	END	1710448302885
+REQUEST		Get all marketplace fees	1710448272776	1710448314947	OK	 
+USER	Get Marketplace Fees	END	1710448314948
+REQUEST		Get all marketplace fees	1710448273091	1710448315327	OK	 
+USER	Get Marketplace Fees	END	1710448315328
+REQUEST		Get all marketplace fees	1710448272949	1710448315439	OK	 
+USER	Get Marketplace Fees	END	1710448315440
+REQUEST		Get all marketplace fees	1710448273225	1710448315737	OK	 
+USER	Get Marketplace Fees	END	1710448315737
+REQUEST		Get all marketplace fees	1710448273140	1710448315836	OK	 
+USER	Get Marketplace Fees	END	1710448315837
+REQUEST		Get all marketplace fees	1710448272888	1710448316055	OK	 
+USER	Get Marketplace Fees	END	1710448316055
+REQUEST		Get all marketplace fees	1710448272698	1710448316629	OK	 
+USER	Get Marketplace Fees	END	1710448316629
+REQUEST		Get all marketplace fees	1710448272805	1710448316741	OK	 
+USER	Get Marketplace Fees	END	1710448316742
+REQUEST		Get all marketplace fees	1710448273097	1710448317151	OK	 
+USER	Get Marketplace Fees	END	1710448317152
+REQUEST		Get all marketplace fees	1710448272917	1710448317251	OK	 
+USER	Get Marketplace Fees	END	1710448317251
+REQUEST		Get all marketplace fees	1710448273184	1710448317335	OK	 
+USER	Get Marketplace Fees	END	1710448317336
+REQUEST		Get all marketplace fees	1710448273041	1710448317631	OK	 
+USER	Get Marketplace Fees	END	1710448317632
+REQUEST		Get all marketplace fees	1710448273391	1710448318047	OK	 
+USER	Get Marketplace Fees	END	1710448318048
+REQUEST		Get all marketplace fees	1710448273010	1710448318130	OK	 
+USER	Get Marketplace Fees	END	1710448318131
+REQUEST		Get all marketplace fees	1710448272972	1710448319533	OK	 
+USER	Get Marketplace Fees	END	1710448319534
+REQUEST		Get all marketplace fees	1710448273037	1710448319551	OK	 
+USER	Get Marketplace Fees	END	1710448319553
+REQUEST		Get all marketplace fees	1710448273099	1710448319611	OK	 
+USER	Get Marketplace Fees	END	1710448319612
+REQUEST		Get all marketplace fees	1710448272874	1710448319998	OK	 
+USER	Get Marketplace Fees	END	1710448319999
+REQUEST		Get all marketplace fees	1710448273088	1710448320446	OK	 
+USER	Get Marketplace Fees	END	1710448320447
+REQUEST		Get all marketplace fees	1710448273111	1710448320550	OK	 
+USER	Get Marketplace Fees	END	1710448320551
+REQUEST		Get all marketplace fees	1710448272851	1710448320764	OK	 
+USER	Get Marketplace Fees	END	1710448320766
+REQUEST		Get all marketplace fees	1710448273153	1710448322052	OK	 
+USER	Get Marketplace Fees	END	1710448322053
+REQUEST		Get all marketplace fees	1710448272810	1710448322060	OK	 
+USER	Get Marketplace Fees	END	1710448322061
+REQUEST		Get all marketplace fees	1710448272933	1710448322572	OK	 
+USER	Get Marketplace Fees	END	1710448322573
+REQUEST		Get all marketplace fees	1710448272977	1710448322586	OK	 
+USER	Get Marketplace Fees	END	1710448322586
+REQUEST		Get all marketplace fees	1710448273173	1710448322752	OK	 
+USER	Get Marketplace Fees	END	1710448322752
+REQUEST		Get all marketplace fees	1710448272980	1710448323148	OK	 
+USER	Get Marketplace Fees	END	1710448323149
+REQUEST		Get all marketplace fees	1710448273085	1710448323252	OK	 
+USER	Get Marketplace Fees	END	1710448323252
+REQUEST		Get all marketplace fees	1710448273008	1710448323261	OK	 
+USER	Get Marketplace Fees	END	1710448323261
+REQUEST		Get all marketplace fees	1710448272908	1710448323338	OK	 
+USER	Get Marketplace Fees	END	1710448323339
+REQUEST		Get all marketplace fees	1710448273016	1710448323697	OK	 
+USER	Get Marketplace Fees	END	1710448323698
+REQUEST		Get all marketplace fees	1710448272782	1710448323699	OK	 
+USER	Get Marketplace Fees	END	1710448323700
+REQUEST		Get all marketplace fees	1710448273083	1710448323969	OK	 
+USER	Get Marketplace Fees	END	1710448323970
+REQUEST		Get all marketplace fees	1710448273199	1710448325047	OK	 
+USER	Get Marketplace Fees	END	1710448325048
+REQUEST		Get all marketplace fees	1710448273449	1710448325140	OK	 
+USER	Get Marketplace Fees	END	1710448325141
+REQUEST		Get all marketplace fees	1710448273229	1710448325672	OK	 
+USER	Get Marketplace Fees	END	1710448325673
+REQUEST		Get all marketplace fees	1710448272960	1710448326370	OK	 
+USER	Get Marketplace Fees	END	1710448326370
+REQUEST		Get all marketplace fees	1710448272927	1710448326655	OK	 
+USER	Get Marketplace Fees	END	1710448326657
+REQUEST		Get all marketplace fees	1710448272687	1710448327496	OK	 
+USER	Get Marketplace Fees	END	1710448327497
+REQUEST		Get all marketplace fees	1710448272974	1710448328395	OK	 
+USER	Get Marketplace Fees	END	1710448328397
+REQUEST		Get all marketplace fees	1710448273407	1710448329369	OK	 
+USER	Get Marketplace Fees	END	1710448329372
+REQUEST		Get all marketplace fees	1710448273163	1710448329373	OK	 
+USER	Get Marketplace Fees	END	1710448329374
+REQUEST		Get all marketplace fees	1710448273146	1710448329510	OK	 
+USER	Get Marketplace Fees	END	1710448329510
+REQUEST		Get all marketplace fees	1710448273334	1710448329609	OK	 
+USER	Get Marketplace Fees	END	1710448329610
+REQUEST		Get all marketplace fees	1710448272644	1710448329703	OK	 
+USER	Get Marketplace Fees	END	1710448329705
+REQUEST		Get all marketplace fees	1710448273310	1710448330107	OK	 
+USER	Get Marketplace Fees	END	1710448330107
+REQUEST		Get all marketplace fees	1710448273102	1710448330223	OK	 
+USER	Get Marketplace Fees	END	1710448330224
+REQUEST		Get all marketplace fees	1710448272983	1710448330245	OK	 
+USER	Get Marketplace Fees	END	1710448330246
+REQUEST		Get all marketplace fees	1710448273120	1710448330280	OK	 
+USER	Get Marketplace Fees	END	1710448330281
+REQUEST		Get all marketplace fees	1710448272866	1710448330336	OK	 
+USER	Get Marketplace Fees	END	1710448330337
+REQUEST		Get all marketplace fees	1710448273192	1710448330381	OK	 
+USER	Get Marketplace Fees	END	1710448330383
+REQUEST		Get all marketplace fees	1710448273271	1710448331013	OK	 
+USER	Get Marketplace Fees	END	1710448331014
+REQUEST		Get all marketplace fees	1710448273166	1710448331066	OK	 
+USER	Get Marketplace Fees	END	1710448331068
+REQUEST		Get all marketplace fees	1710448273207	1710448331088	OK	 
+USER	Get Marketplace Fees	END	1710448331089
+REQUEST		Get all marketplace fees	1710448272833	1710448331094	OK	 
+USER	Get Marketplace Fees	END	1710448331094
+REQUEST		Get all marketplace fees	1710448273296	1710448331433	OK	 
+USER	Get Marketplace Fees	END	1710448331434
+REQUEST		Get all marketplace fees	1710448272794	1710448331590	OK	 
+USER	Get Marketplace Fees	END	1710448331591
+REQUEST		Get all marketplace fees	1710448272966	1710448331596	OK	 
+USER	Get Marketplace Fees	END	1710448331597
+REQUEST		Get all marketplace fees	1710448273080	1710448331731	OK	 
+USER	Get Marketplace Fees	END	1710448331732
+REQUEST		Get all marketplace fees	1710448273035	1710448331796	OK	 
+USER	Get Marketplace Fees	END	1710448331797
+REQUEST		Get all marketplace fees	1710448272957	1710448331977	OK	 
+USER	Get Marketplace Fees	END	1710448331978
+REQUEST		Get all marketplace fees	1710448272749	1710448332008	OK	 
+USER	Get Marketplace Fees	END	1710448332009
+REQUEST		Get all marketplace fees	1710448273238	1710448332084	OK	 
+USER	Get Marketplace Fees	END	1710448332086
+REQUEST		Get all marketplace fees	1710448273123	1710448332184	OK	 
+USER	Get Marketplace Fees	END	1710448332185
+REQUEST		Get all marketplace fees	1710448273066	1710448332228	OK	 
+USER	Get Marketplace Fees	END	1710448332228
+REQUEST		Get all marketplace fees	1710448272986	1710448332232	OK	 
+USER	Get Marketplace Fees	END	1710448332232
+REQUEST		Get all marketplace fees	1710448273481	1710448332312	OK	 
+USER	Get Marketplace Fees	END	1710448332312
+REQUEST		Get all marketplace fees	1710448272828	1710448332334	OK	 
+USER	Get Marketplace Fees	END	1710448332335
+REQUEST		Get all marketplace fees	1710448273117	1710448332364	OK	 
+USER	Get Marketplace Fees	END	1710448332365
+REQUEST		Get all marketplace fees	1710448273216	1710448332392	OK	 
+USER	Get Marketplace Fees	END	1710448332392
+REQUEST		Get all marketplace fees	1710448273196	1710448332397	OK	 
+USER	Get Marketplace Fees	END	1710448332397
+REQUEST		Get all marketplace fees	1710448272764	1710448332489	OK	 
+USER	Get Marketplace Fees	END	1710448332490
+REQUEST		Get all marketplace fees	1710448272955	1710448332491	OK	 
+USER	Get Marketplace Fees	END	1710448332491
+REQUEST		Get all marketplace fees	1710448273044	1710448332572	OK	 
+USER	Get Marketplace Fees	END	1710448332573
+REQUEST		Get all marketplace fees	1710448273235	1710448332587	OK	 
+USER	Get Marketplace Fees	END	1710448332588
+REQUEST		Get all marketplace fees	1710448273253	1710448332672	OK	 
+USER	Get Marketplace Fees	END	1710448332674
+REQUEST		Get all marketplace fees	1710448272742	1710448332696	OK	 
+USER	Get Marketplace Fees	END	1710448332697
+REQUEST		Get all marketplace fees	1710448272734	1710448332697	OK	 
+USER	Get Marketplace Fees	END	1710448332698
+REQUEST		Get all marketplace fees	1710448273068	1710448332721	OK	 
+USER	Get Marketplace Fees	END	1710448332723
+REQUEST		Get all marketplace fees	1710448272847	1710448332848	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448332854
+REQUEST		Get all marketplace fees	1710448273220	1710448332903	OK	 
+USER	Get Marketplace Fees	END	1710448332905
+REQUEST		Get all marketplace fees	1710448272815	1710448332817	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448333065
+REQUEST		Get all marketplace fees	1710448272824	1710448332824	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448333204
+REQUEST		Get all marketplace fees	1710448272800	1710448332801	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448333287
+REQUEST		Get all marketplace fees	1710448272862	1710448332862	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448333410
+REQUEST		Get all marketplace fees	1710448273243	1710448333410	OK	 
+USER	Get Marketplace Fees	END	1710448333411
+REQUEST		Get all marketplace fees	1710448273005	1710448333005	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448333526
+REQUEST		Get all marketplace fees	1710448272884	1710448332884	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448333553
+REQUEST		Get all marketplace fees	1710448272921	1710448332921	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448333722
+REQUEST		Get all marketplace fees	1710448272991	1710448333723	OK	 
+USER	Get Marketplace Fees	END	1710448333724
+REQUEST		Get all marketplace fees	1710448272952	1710448332952	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448333788
+REQUEST		Get all marketplace fees	1710448273259	1710448333788	OK	 
+USER	Get Marketplace Fees	END	1710448333789
+REQUEST		Get all marketplace fees	1710448272946	1710448332946	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448333856
+REQUEST		Get all marketplace fees	1710448273249	1710448333857	OK	 
+USER	Get Marketplace Fees	END	1710448333857
+REQUEST		Get all marketplace fees	1710448272988	1710448332988	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448334001
+REQUEST		Get all marketplace fees	1710448272997	1710448332997	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448334059
+REQUEST		Get all marketplace fees	1710448273024	1710448333025	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448334225
+REQUEST		Get all marketplace fees	1710448273029	1710448333030	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448334249
+REQUEST		Get all marketplace fees	1710448273003	1710448333003	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448334444
+REQUEST		Get all marketplace fees	1710448273032	1710448333033	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448334476
+REQUEST		Get all marketplace fees	1710448273177	1710448334477	OK	 
+USER	Get Marketplace Fees	END	1710448334478
+REQUEST		Get all marketplace fees	1710448273060	1710448333060	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448334610
+REQUEST		Get all marketplace fees	1710448273377	1710448334611	OK	 
+USER	Get Marketplace Fees	END	1710448334612
+REQUEST		Get all marketplace fees	1710448273049	1710448333049	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448334689
+REQUEST		Get all marketplace fees	1710448273108	1710448333109	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448334811
+REQUEST		Get all marketplace fees	1710448273137	1710448333137	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448334930
+REQUEST		Get all marketplace fees	1710448273156	1710448333156	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448335014
+REQUEST		Get all marketplace fees	1710448273203	1710448333205	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448335126
+REQUEST		Get all marketplace fees	1710448273180	1710448333180	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448335230
+REQUEST		Get all marketplace fees	1710448273143	1710448333527	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448335313
+REQUEST		Get all marketplace fees	1710448272942	1710448333411	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448335381
+REQUEST		Get all marketplace fees	1710448273013	1710448333857	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448335438
+REQUEST		Get all marketplace fees	1710448273063	1710448334059	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448335565
+REQUEST		Get all marketplace fees	1710448273057	1710448333724	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448335633
+REQUEST		Get all marketplace fees	1710448273289	1710448334478	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448335763
+REQUEST		Get all marketplace fees	1710448273055	1710448334002	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448335876
+REQUEST		Get all marketplace fees	1710448273018	1710448333789	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448335952
+REQUEST		Get all marketplace fees	1710448273426	1710448334444	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448336011
+REQUEST		Get all marketplace fees	1710448273130	1710448334612	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448336129
+REQUEST		Get all marketplace fees	1710448273188	1710448334812	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448336153
+REQUEST		Get all marketplace fees	1710448273344	1710448335127	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448336331
+REQUEST		Get all marketplace fees	1710448273159	1710448335952	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448336402
+REQUEST		Get all marketplace fees	1710448273077	1710448335381	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448336451
+REQUEST		Get all marketplace fees	1710448273354	1710448335876	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448336612
+REQUEST		Get all marketplace fees	1710448273126	1710448335633	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448336694
+REQUEST		Get all marketplace fees	1710448273149	1710448336451	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448336765
+REQUEST		Get all marketplace fees	1710448273212	1710448336695	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448336821
+REQUEST		Get all marketplace fees	1710448273365	1710448336821	KO	Request timeout to app.test.indexexchange.com/10.6.188.26:443 after 60000 ms
+USER	Get Marketplace Fees	END	1710448336949

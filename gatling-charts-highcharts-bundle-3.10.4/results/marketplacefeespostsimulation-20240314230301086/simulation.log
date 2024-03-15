@@ -1,0 +1,274 @@
+RUN	transactions.MarketplaceFeesPostSimulation	marketplacefeespostsimulation	1710457381086	 	3.10.4
+USER	Login	START	1710457381584
+REQUEST		Login	1710457381582	1710457382302	OK	 
+USER	Login	END	1710457387355
+USER	Post Marketplace Fees	START	1710457387571
+USER	Post Marketplace Fees	START	1710457387627
+USER	Post Marketplace Fees	START	1710457387665
+USER	Post Marketplace Fees	START	1710457387694
+USER	Post Marketplace Fees	START	1710457387727
+USER	Post Marketplace Fees	START	1710457387738
+USER	Post Marketplace Fees	START	1710457387757
+USER	Post Marketplace Fees	START	1710457387772
+USER	Post Marketplace Fees	START	1710457387787
+USER	Post Marketplace Fees	START	1710457387800
+USER	Post Marketplace Fees	START	1710457387812
+USER	Post Marketplace Fees	START	1710457387825
+USER	Post Marketplace Fees	START	1710457387835
+USER	Post Marketplace Fees	START	1710457387846
+USER	Post Marketplace Fees	START	1710457387856
+USER	Post Marketplace Fees	START	1710457387865
+USER	Post Marketplace Fees	START	1710457387874
+USER	Post Marketplace Fees	START	1710457387884
+USER	Post Marketplace Fees	START	1710457387892
+USER	Post Marketplace Fees	START	1710457387900
+USER	Post Marketplace Fees	START	1710457387908
+USER	Post Marketplace Fees	START	1710457387916
+USER	Post Marketplace Fees	START	1710457387925
+USER	Post Marketplace Fees	START	1710457387931
+USER	Post Marketplace Fees	START	1710457387938
+USER	Post Marketplace Fees	START	1710457387946
+USER	Post Marketplace Fees	START	1710457387953
+USER	Post Marketplace Fees	START	1710457387959
+USER	Post Marketplace Fees	START	1710457387967
+USER	Post Marketplace Fees	START	1710457387973
+USER	Post Marketplace Fees	START	1710457387980
+USER	Post Marketplace Fees	START	1710457387986
+USER	Post Marketplace Fees	START	1710457387993
+USER	Post Marketplace Fees	START	1710457387999
+USER	Post Marketplace Fees	START	1710457388005
+USER	Post Marketplace Fees	START	1710457388011
+USER	Post Marketplace Fees	START	1710457388018
+USER	Post Marketplace Fees	START	1710457388024
+USER	Post Marketplace Fees	START	1710457388030
+USER	Post Marketplace Fees	START	1710457388036
+USER	Post Marketplace Fees	START	1710457388042
+USER	Post Marketplace Fees	START	1710457388048
+USER	Post Marketplace Fees	START	1710457388054
+USER	Post Marketplace Fees	START	1710457388060
+USER	Post Marketplace Fees	START	1710457388066
+USER	Post Marketplace Fees	START	1710457388071
+USER	Post Marketplace Fees	START	1710457388077
+USER	Post Marketplace Fees	START	1710457388083
+USER	Post Marketplace Fees	START	1710457388089
+USER	Post Marketplace Fees	START	1710457388095
+USER	Post Marketplace Fees	START	1710457388101
+USER	Post Marketplace Fees	START	1710457388107
+USER	Post Marketplace Fees	START	1710457388113
+USER	Post Marketplace Fees	START	1710457388119
+USER	Post Marketplace Fees	START	1710457388125
+USER	Post Marketplace Fees	START	1710457388132
+USER	Post Marketplace Fees	START	1710457388138
+USER	Post Marketplace Fees	START	1710457388144
+USER	Post Marketplace Fees	START	1710457388150
+USER	Post Marketplace Fees	START	1710457388157
+USER	Post Marketplace Fees	START	1710457388163
+USER	Post Marketplace Fees	START	1710457388170
+USER	Post Marketplace Fees	START	1710457388176
+USER	Post Marketplace Fees	START	1710457388183
+USER	Post Marketplace Fees	START	1710457388190
+USER	Post Marketplace Fees	START	1710457388198
+USER	Post Marketplace Fees	START	1710457388205
+USER	Post Marketplace Fees	START	1710457388212
+USER	Post Marketplace Fees	START	1710457388219
+USER	Post Marketplace Fees	START	1710457388227
+USER	Post Marketplace Fees	START	1710457388235
+USER	Post Marketplace Fees	START	1710457388243
+USER	Post Marketplace Fees	START	1710457388251
+USER	Post Marketplace Fees	START	1710457388259
+USER	Post Marketplace Fees	START	1710457388268
+USER	Post Marketplace Fees	START	1710457388277
+USER	Post Marketplace Fees	START	1710457388286
+USER	Post Marketplace Fees	START	1710457388296
+USER	Post Marketplace Fees	START	1710457388307
+USER	Post Marketplace Fees	START	1710457388317
+USER	Post Marketplace Fees	START	1710457388329
+USER	Post Marketplace Fees	START	1710457388341
+USER	Post Marketplace Fees	START	1710457388354
+USER	Post Marketplace Fees	START	1710457388369
+USER	Post Marketplace Fees	START	1710457388384
+USER	Post Marketplace Fees	START	1710457388402
+USER	Post Marketplace Fees	START	1710457388422
+USER	Post Marketplace Fees	START	1710457388445
+USER	Post Marketplace Fees	START	1710457388474
+USER	Post Marketplace Fees	START	1710457388513
+REQUEST		Post marketplace fees	1710457387666	1710457390966	OK	 
+USER	Post Marketplace Fees	END	1710457390968
+REQUEST		Post marketplace fees	1710457387578	1710457391000	OK	 
+USER	Post Marketplace Fees	END	1710457391002
+REQUEST		Post marketplace fees	1710457387627	1710457391014	OK	 
+USER	Post Marketplace Fees	END	1710457391016
+REQUEST		Post marketplace fees	1710457387740	1710457391370	OK	 
+USER	Post Marketplace Fees	END	1710457391371
+REQUEST		Post marketplace fees	1710457387773	1710457391419	OK	 
+USER	Post Marketplace Fees	END	1710457391419
+REQUEST		Post marketplace fees	1710457387729	1710457392141	OK	 
+USER	Post Marketplace Fees	END	1710457392142
+REQUEST		Post marketplace fees	1710457387827	1710457392599	OK	 
+USER	Post Marketplace Fees	END	1710457392600
+REQUEST		Post marketplace fees	1710457387837	1710457393394	OK	 
+USER	Post Marketplace Fees	END	1710457393394
+REQUEST		Post marketplace fees	1710457387789	1710457396081	OK	 
+USER	Post Marketplace Fees	END	1710457396083
+REQUEST		Post marketplace fees	1710457387902	1710457397104	OK	 
+USER	Post Marketplace Fees	END	1710457397105
+REQUEST		Post marketplace fees	1710457388011	1710457397719	OK	 
+USER	Post Marketplace Fees	END	1710457397720
+REQUEST		Post marketplace fees	1710457387868	1710457398129	OK	 
+REQUEST		Post marketplace fees	1710457387980	1710457398129	OK	 
+USER	Post Marketplace Fees	END	1710457398131
+USER	Post Marketplace Fees	END	1710457398132
+REQUEST		Post marketplace fees	1710457387814	1710457399051	OK	 
+USER	Post Marketplace Fees	END	1710457399052
+REQUEST		Post marketplace fees	1710457387894	1710457400383	OK	 
+USER	Post Marketplace Fees	END	1710457400385
+REQUEST		Post marketplace fees	1710457387926	1710457401509	OK	 
+USER	Post Marketplace Fees	END	1710457401510
+REQUEST		Post marketplace fees	1710457387858	1710457405532	OK	 
+USER	Post Marketplace Fees	END	1710457405534
+REQUEST		Post marketplace fees	1710457388030	1710457405911	OK	 
+USER	Post Marketplace Fees	END	1710457405912
+REQUEST		Post marketplace fees	1710457388042	1710457406219	OK	 
+USER	Post Marketplace Fees	END	1710457406220
+REQUEST		Post marketplace fees	1710457387759	1710457406310	OK	 
+USER	Post Marketplace Fees	END	1710457406311
+REQUEST		Post marketplace fees	1710457387695	1710457406313	OK	 
+USER	Post Marketplace Fees	END	1710457406313
+REQUEST		Post marketplace fees	1710457388048	1710457406935	OK	 
+USER	Post Marketplace Fees	END	1710457406936
+REQUEST		Post marketplace fees	1710457387940	1710457407856	OK	 
+USER	Post Marketplace Fees	END	1710457407857
+REQUEST		Post marketplace fees	1710457388071	1710457408573	OK	 
+USER	Post Marketplace Fees	END	1710457408574
+REQUEST		Post marketplace fees	1710457387911	1710457409692	OK	 
+USER	Post Marketplace Fees	END	1710457409693
+REQUEST		Post marketplace fees	1710457388235	1710457411851	OK	 
+USER	Post Marketplace Fees	END	1710457411852
+REQUEST		Post marketplace fees	1710457388126	1710457412263	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457412347
+REQUEST		Post marketplace fees	1710457388243	1710457412261	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457412548
+REQUEST		Post marketplace fees	1710457387802	1710457412261	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457412785
+REQUEST		Post marketplace fees	1710457388318	1710457412261	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457412969
+REQUEST		Post marketplace fees	1710457388259	1710457412261	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457413093
+REQUEST		Post marketplace fees	1710457388054	1710457412261	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457413500
+REQUEST		Post marketplace fees	1710457388205	1710457413501	OK	 
+USER	Post Marketplace Fees	END	1710457413502
+REQUEST		Post marketplace fees	1710457388024	1710457412263	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457413539
+REQUEST		Post marketplace fees	1710457388198	1710457412263	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457413863
+REQUEST		Post marketplace fees	1710457388177	1710457412266	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457414025
+REQUEST		Post marketplace fees	1710457388219	1710457412264	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457414285
+REQUEST		Post marketplace fees	1710457388330	1710457412264	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457414355
+REQUEST		Post marketplace fees	1710457388060	1710457412262	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457414553
+REQUEST		Post marketplace fees	1710457388370	1710457412261	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457414770
+REQUEST		Post marketplace fees	1710457388277	1710457412261	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457414882
+REQUEST		Post marketplace fees	1710457388385	1710457412263	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457415009
+REQUEST		Post marketplace fees	1710457388269	1710457412261	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457415245
+REQUEST		Post marketplace fees	1710457387876	1710457412263	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457415413
+REQUEST		Post marketplace fees	1710457388114	1710457412264	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457415733
+REQUEST		Post marketplace fees	1710457388102	1710457415246	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457415961
+REQUEST		Post marketplace fees	1710457387932	1710457412548	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457416158
+REQUEST		Post marketplace fees	1710457388423	1710457414025	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457416190
+REQUEST		Post marketplace fees	1710457388164	1710457415010	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457416474
+REQUEST		Post marketplace fees	1710457387947	1710457413093	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457416641
+REQUEST		Post marketplace fees	1710457388475	1710457415413	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457416677
+REQUEST		Post marketplace fees	1710457388084	1710457416158	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457416870
+REQUEST		Post marketplace fees	1710457388139	1710457417186	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457417338
+REQUEST		Post marketplace fees	1710457388066	1710457417186	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457417524
+REQUEST		Post marketplace fees	1710457388096	1710457417187	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457417642
+REQUEST		Post marketplace fees	1710457388018	1710457417187	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457417764
+REQUEST		Post marketplace fees	1710457388036	1710457417187	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457418064
+REQUEST		Post marketplace fees	1710457387954	1710457417187	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457418173
+REQUEST		Post marketplace fees	1710457388158	1710457417187	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457418364
+REQUEST		Post marketplace fees	1710457388133	1710457417186	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457418664
+REQUEST		Post marketplace fees	1710457388513	1710457417186	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457418727
+REQUEST		Post marketplace fees	1710457388145	1710457417186	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457418843
+REQUEST		Post marketplace fees	1710457388355	1710457417186	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457419012
+REQUEST		Post marketplace fees	1710457388252	1710457417186	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457419298
+REQUEST		Post marketplace fees	1710457387960	1710457417186	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457419414
+REQUEST		Post marketplace fees	1710457387967	1710457417186	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457419508
+REQUEST		Post marketplace fees	1710457388191	1710457417211	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457419731
+REQUEST		Post marketplace fees	1710457387848	1710457417204	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457419912
+REQUEST		Post marketplace fees	1710457388212	1710457417212	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457420178
+REQUEST		Post marketplace fees	1710457387973	1710457417204	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457420402
+REQUEST		Post marketplace fees	1710457388308	1710457417204	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457420432
+REQUEST		Post marketplace fees	1710457387918	1710457417391	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457420625
+REQUEST		Post marketplace fees	1710457387994	1710457417338	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457420812
+REQUEST		Post marketplace fees	1710457388184	1710457418065	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457420915
+REQUEST		Post marketplace fees	1710457388078	1710457418210	KO	status.find.is(201), but actually found 504
+USER	Post Marketplace Fees	END	1710457421219
+REQUEST		Post marketplace fees	1710457387886	1710457418727	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457421313
+REQUEST		Post marketplace fees	1710457388342	1710457418843	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457421411
+REQUEST		Post marketplace fees	1710457387987	1710457418665	KO	status.find.is(201), but actually found 504
+USER	Post Marketplace Fees	END	1710457421605
+REQUEST		Post marketplace fees	1710457388006	1710457419012	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457421823
+REQUEST		Post marketplace fees	1710457388090	1710457419298	KO	status.find.is(201), but actually found 504
+USER	Post Marketplace Fees	END	1710457421923
+REQUEST		Post marketplace fees	1710457388108	1710457419415	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457422282
+REQUEST		Post marketplace fees	1710457388286	1710457419509	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457422309
+REQUEST		Post marketplace fees	1710457388171	1710457419913	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457422500
+REQUEST		Post marketplace fees	1710457388120	1710457420403	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457422636
+REQUEST		Post marketplace fees	1710457388227	1710457420625	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457422834
+REQUEST		Post marketplace fees	1710457388446	1710457420915	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457423132
+REQUEST		Post marketplace fees	1710457387999	1710457421411	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457423246
+REQUEST		Post marketplace fees	1710457388151	1710457421823	KO	status.find.is(201), but actually found 504
+USER	Post Marketplace Fees	END	1710457423387
+REQUEST		Post marketplace fees	1710457388403	1710457422500	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457423615
+REQUEST		Post marketplace fees	1710457388296	1710457422637	KO	status.find.is(201), but actually found 500
+USER	Post Marketplace Fees	END	1710457423928

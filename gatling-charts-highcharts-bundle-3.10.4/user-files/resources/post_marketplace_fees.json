@@ -1,0 +1,1622 @@
+[
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 247850,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 247976,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 247977,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248046,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248047,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248056,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248057,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248059,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248072,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248228,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248229,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248244,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248281,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248284,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 3000316,
+    "internalDealID": 248318,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248333,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 3000316,
+    "internalDealID": 248372,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248739,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248740,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248809,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 249478,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 249903,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 362952,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 257657,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 3006313,
+    "internalDealID": 258906,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259425,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259426,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259427,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259428,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259429,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 260165,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 260211,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 354618,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 354647,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 355166,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 355486,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 357016,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 358146,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 358363,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 361781,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 361794,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 361867,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 361868,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 362110,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "deal",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 362115,
+    "publisherAccountID": null,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 247850,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 247976,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 247977,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248046,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248047,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248056,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248057,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248059,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248072,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248228,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248229,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248244,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248281,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248284,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000316,
+    "internalDealID": 248318,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248333,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000316,
+    "internalDealID": 248372,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248739,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248740,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248809,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 249478,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 249903,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 362952,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 257657,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3006313,
+    "internalDealID": 258906,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259425,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259426,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259427,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259428,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259429,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 260165,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 260211,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 354618,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 354647,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 355166,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 355486,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 357016,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 358146,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 358363,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 361781,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 361794,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 361867,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 361868,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 362110,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 362115,
+    "publisherAccountID": 33933,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 247850,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 247976,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 247977,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248046,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248047,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248056,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248057,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248059,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248072,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248228,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248229,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248244,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248281,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248284,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000316,
+    "internalDealID": 248318,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248333,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000316,
+    "internalDealID": 248372,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248739,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248740,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248809,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 249478,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 249903,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 362952,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 257657,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3006313,
+    "internalDealID": 258906,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259425,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259426,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259427,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259428,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259429,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 260165,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 260211,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 354618,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 354647,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 355166,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 355486,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 357016,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 358146,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 358363,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 361781,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 361794,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 361867,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 361868,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 362110,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 362115,
+    "publisherAccountID": 44380,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 247850,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 247976,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 247977,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248046,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248047,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248056,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248057,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248059,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248072,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248228,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248229,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248244,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248281,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000319,
+    "internalDealID": 248284,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000316,
+    "internalDealID": 248318,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248333,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3000316,
+    "internalDealID": 248372,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248739,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248740,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 248809,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 249478,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 249903,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 362952,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 257657,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 3006313,
+    "internalDealID": 258906,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259425,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259426,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259427,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259428,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 259429,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 260165,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 260211,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 354618,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 354647,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 355166,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 355486,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 357016,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 358146,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 358363,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 361781,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 361794,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 361867,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 361868,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 362110,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  },
+  {
+    "scope": "publisher",
+    "marketplaceAccountID": 1471764,
+    "internalDealID": 362115,
+    "publisherAccountID": 33960,
+    "calculationType": "P",
+    "value": 1.23,
+    "description": "qps limit test"
+  }
+]
